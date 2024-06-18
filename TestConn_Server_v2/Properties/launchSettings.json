@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TestConn_Server_v2 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TestConn_Server_v2 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
